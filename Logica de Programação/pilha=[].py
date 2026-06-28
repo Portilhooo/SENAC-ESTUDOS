@@ -1,0 +1,10 @@
+pilha=[]
+pilha.append("eu")
+pilha.append("eu")
+print("Pilha atual:")
+print(pilha)
+removido = pilha.pop()
+print("\nElemento Removido:")
+print(removido)
+print("\n Pilha depois de removido:")
+print(pilha)
